@@ -1,5 +1,11 @@
 # @web/test-runner-visual-regression
 
+## 0.8.2
+
+### Patch Changes
+
+- be17bde1: Update pngjs
+
 ## 0.8.1
 
 ### Patch Changes
